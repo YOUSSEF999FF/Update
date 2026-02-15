@@ -1,6 +1,11 @@
-{
-  "version": 2,
-  "update_required": true,
-  "update_message": "تحديث.",
-  "update_url": "https://google.com"
 }
+"Visibility": "VISIBLE",
+"Title": "تحديث جديد",
+"Description": "مرحبا بكم يا اصدقائي هناك تحديث جديد متوفر الان 😊❤️ أذهب لقناتي للتحميل ⚡ YouTube YOUSSEF 999 ff",
+"MainTextButton": "Update",
+"Cancelable": "true",
+"CancelButtonText": "Cancel",
+"DownloadLink":
+"https://youtube.com/@youssef_999_v_ff?si=aCTfQwMOCxhX897W",
+}
+"Version": "1.0"
